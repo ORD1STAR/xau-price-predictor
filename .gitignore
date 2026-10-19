@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+catboost_info/
+logs/
+models/saved/
+*.pkl
+*.keras
+.ipynb_checkpoints/
+results/*.csv
